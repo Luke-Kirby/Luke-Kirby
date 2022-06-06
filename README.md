@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Luke-Kirby
+- 👋 Hi, I’m Luke Kirby
 - I'm currently seeking a remote front-end web developer job
 - I’m currently learning Javascript, Typescript, React js, CSS / SCSS, HTML, Figma and Git
 - I’m currently working with the charity Planet Patrol to help develop their app (React js)
