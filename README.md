@@ -5,4 +5,4 @@
 - How to reach me:
 -   Phone: 07719 155 448
 -   Email: lbkirby96@hotmail.com
--   Website: (https://glittery-bienenstitch-5c4286.netlify.app/)https://glittery-bienenstitch-5c4286.netlify.app/
+-   Website: https://glittery-bienenstitch-5c4286.netlify.app/
