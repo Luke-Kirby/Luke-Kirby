@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Luke Kirby
-- I'm currently seeking a remote front-end web developer job
-- I’m currently learning JavaScript, TypeScript, React js, CSS / SCSS, HTML, Figma and Git
-- I’m currently working with the charity Planet Patrol to help develop their app (React js)
+- I'm currently seeking a ront-end web developer job in a net-zero industry
+- My tech stack consists of JavaScript, TypeScript, React, Angular, CSS / SCSS, HTML, Git and more
+- I’m currently coordinating the Front-End of the app THEIA (Penspen)
 - How to reach me:
 -   Phone: 07719 155 448
 -   Email: lbkirby96@hotmail.com
--   Website: https://scintillating-lolly-555e90.netlify.app/
+-   Website: [https://scintillating-lolly-555e90.netlify.app/](https://glittery-bienenstitch-5c4286.netlify.app/)https://glittery-bienenstitch-5c4286.netlify.app/
