@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Luke Kirby
-- I'm currently seeking a Front-End Engineering job in a net-zero industry
-- My tech stack consists of JavaScript, TypeScript, React, Angular, CSS / SCSS, HTML, Git and more
-- I’m currently coordinating the Front-End of the app THEIA (Penspen)
+- I'm currently seeking a Front-End Engineering job
+- I'm a Lead Frontend Developer, Manager, UI UX designer and Mechanical Engineer
+- My tech stack consists of JavaScript, TypeScript, React, Angular, Vue, CSS / SCSS, HTML, Git and more
 - How to reach me:
 -   Phone: 07719 155 448
 -   Email: lbkirby96@hotmail.com
--   Website: https://glittery-bienenstitch-5c4286.netlify.app/
+-   Website: https://lukekirby.netlify.app/
